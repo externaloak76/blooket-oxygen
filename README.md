@@ -9,7 +9,7 @@
 
 
 # Blooket apis
-these are the ones that i currently know about:
+### these are the ones that i currently know about:
 
 
  https://api.blooket.com/api/games POST request
