@@ -11,9 +11,11 @@
 # Blooket apis
 ### these are the ones that i currently know about:
 
- |api|                             |type|
- | :---         |                  | :---         |
- |https://api.blooket.com/api/games| |POST request|
+| API  | Type |
+| ------------- | ------------- |
+|https://api.blooket.com/api/users/unlocks | Dont know |
+|https://api.blooket.com/api/games| | Dont know |
+|https://api.blooket.com/api/users/sellblook | PUT request |
  
  
  https://api.blooket.com/api/firebase/  Dont know
