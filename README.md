@@ -1,6 +1,6 @@
   # Table of contents
-- [apis](#blooket-apis)
-- [Find your blooket token](#how-to-obtain-blooket-token)
+- [Apis](#blooket-apis)
+- [Find your blooket token](#How-to-obtain-blooket-token)
  
 
 
@@ -14,7 +14,7 @@
 
 
 
-# how to obtain blooket token 
+# How to obtain blooket token 
 
 
 
