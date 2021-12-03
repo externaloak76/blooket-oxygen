@@ -12,6 +12,7 @@
 ### these are the ones that i currently know about:
 
  |api|                             |type|
+ | :---         |                  | :---         |
  |https://api.blooket.com/api/games| |POST request|
  
  
