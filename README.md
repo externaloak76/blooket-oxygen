@@ -33,6 +33,10 @@
 |https://api.blooket.com/api/games/featured |GET Request|
 
 
+# hacks
+
+## In scripts folder, all coming soon.
+
 # Blooket assets
 
 ### you can find most of the assests in blooket-set/assests/
