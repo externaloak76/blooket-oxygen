@@ -1,5 +1,6 @@
   # Table of contents
 - [Apis](#Blooket-apis)
+- [Assets](#Blooket-assets)
 - [Find your blooket token](#How-to-obtain-blooket-token)
  
 
@@ -31,7 +32,13 @@
 |https://api.blooket.com/api/games/featured |GET Request|
 
 
+# Blooket assets
 
+you can find most of the assests in blooket-set/assests/
+
+
+
+they are organized into folders
 
 
 # How to obtain blooket token 
