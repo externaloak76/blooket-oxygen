@@ -1,0 +1,13 @@
+ > Current collected apis 
+ 
+ https://api.blooket.com/api/games
+ https://api.blooket.com/api/firebase/
+ https://api.blooket.com/api/users/unlocks
+ https://api.blooket.com/api/users/sellblook
+ https://api.blooket.com/api/users/add-rewards
+ https://api.blooket.com/api/users/allsets
+ https://api.blooket.com/api/users/plan
+ https://api.blooket.com/api/users/blooks
+ https://api.blooket.com/api/users
+ https://api.blooket.com/api/users/login/google
+ https://api.blooket.com/api/config
