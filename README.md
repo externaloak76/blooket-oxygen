@@ -8,7 +8,7 @@
 
 
 
-#blooket apis
+# blooket apis
 these are the ones that i currently know about:
 
 
