@@ -1,5 +1,5 @@
   # Table of contents
-- [Apis](#blooket-apis)
+- [Apis](#Blooket-apis)
 - [Find your blooket token](#How-to-obtain-blooket-token)
  
 
@@ -8,7 +8,7 @@
 
 
 
-# blooket apis
+# Blooket apis
 these are the ones that i currently know about:
 
 
