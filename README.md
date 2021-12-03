@@ -14,7 +14,7 @@
 | API  | Type |
 | ------------- | ------------- |
 |https://api.blooket.com/api/users/unlocks | Dont know |
-|https://api.blooket.com/api/games| | Dont know |
+|https://api.blooket.com/api/games |Dont know |
 |https://api.blooket.com/api/users/sellblook | PUT request |
 |https://api.blooket.com/api/firebase/  |Dont know|
 |https://api.blooket.com/api/users/unlocks |Dont know|
