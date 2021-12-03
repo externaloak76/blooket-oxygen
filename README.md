@@ -1,8 +1,8 @@
-#how to obtain blooket token 
+# how to obtain blooket token 
 
 
 
-##firstly run this in the chrome console
+## firstly run this in the chrome console
 
 
 
@@ -10,7 +10,7 @@
 
 
 
-##then something like this should pop up
+## then something like this should pop up
 
 
 
@@ -18,7 +18,7 @@
 
 
 
-##copy it, including the JWT that is your token
+## copy it, including the JWT that is your token
 
 
 
