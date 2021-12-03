@@ -1,6 +1,6 @@
   # Table of contents
 - [Apis](#Blooket-apis)
-- [hacks](#hacks)
+- [hacks](#Hacks)
 - [Assets](#Blooket-assets)
 - [Find your blooket token](#How-to-obtain-blooket-token)
  
@@ -33,13 +33,7 @@
 |https://api.blooket.com/api/games/featured |GET Request|
 
 
-# hacks
-
-## hacks In scripts folder, all coming soon.
-
-
-
-# ===============================
+# Hacks cooming soon in scripts folder.
 
 # Blooket assets
 
