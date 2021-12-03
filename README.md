@@ -1,7 +1,7 @@
   # Table of contents
-- [Apis](#Blooket-apis)
-- [hacks](#Hacks)
-- [Assets](#Blooket-assets)
+- [blooket Apis](#Blooket-apis)
+- [blooket hacks](#Hacks)
+- [Blooket Assets](#Blooket-assets)
 - [Find your blooket token](#How-to-obtain-blooket-token)
  
 
