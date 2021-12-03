@@ -34,13 +34,18 @@
 
 # Blooket assets
 
-you can find most of the assests in blooket-set/assests/
+### you can find most of the assests in blooket-set/assests/
+
+### they are organized into folders
 
  ![2021-12-03_05-51](https://user-images.githubusercontent.com/80481493/144613597-003b48f1-a064-41f4-b64a-3e192b4c48a6.png)
+ ### Ex. Content inside one of the folders
+  ![2021-12-03_05-54](https://user-images.githubusercontent.com/80481493/144613936-e84d0f5e-e1f1-4277-846e-06610d34605d.png)
 
 
 
-they are organized into folders
+
+
 
 
 # How to obtain blooket token 
