@@ -15,40 +15,43 @@ these are the ones that i currently know about:
  https://api.blooket.com/api/games POST request
  
  
- https://api.blooket.com/api/firebase/
+ https://api.blooket.com/api/firebase/  Dont know
  
  
- https://api.blooket.com/api/users/unlocks
+ https://api.blooket.com/api/users/unlocks Dont know
  
  
- https://api.blooket.com/api/users/sellblook PUT
+ https://api.blooket.com/api/users/sellblook PUT Request
  
  
- https://api.blooket.com/api/users/add-rewards PUT request
+ https://api.blooket.com/api/users/add-rewards PUT Request
  
  
- https://api.blooket.com/api/users/allsets GET request 
+ https://api.blooket.com/api/users/allsets GET Request 
  
 
- https://api.blooket.com/api/users/plan PUT request
+ https://api.blooket.com/api/users/plan PUT Request
  
  
  https://api.blooket.com/api/users/blooks
  
  
- https://api.blooket.com/api/users
+ https://api.blooket.com/api/users Dont know
  
  
- https://api.blooket.com/api/config 
+ https://api.blooket.com/api/config Dont know
  
 
  https://api.blooket.com/api/users/tokens GET Request
  
  
-  https://api.blooket.com/api/users/dashboard GET request
+  https://api.blooket.com/api/users/dashboard GET Request
   
   
   https://api.blooket.com/api/users/unlockblook PUT
+  
+  
+  https://api.blooket.com/api/games/featured GET Request
 
 
 
